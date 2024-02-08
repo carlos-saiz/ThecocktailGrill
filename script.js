@@ -1,0 +1,6 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const confirmButton = document.getElementById('confirmButton');
+    confirmButton.addEventListener('click', function() {
+        window.location.href = 'http://127.0.0.1:5500/confirmacion.html';
+    });
+});

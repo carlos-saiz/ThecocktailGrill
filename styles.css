@@ -1,0 +1,82 @@
+body {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+    background-image: url('/img/chef-masculino-cocina-cocina.jpg');
+    background-repeat: no-repeat;
+    background-size: 40%;
+    height: 100vh;
+    background-position: right;
+    
+}
+
+.logoCocktail {
+    height: 150px;
+}
+
+header {
+    background-color: #333333;
+    padding: px;
+    text-align: center;
+}
+
+header img {
+    max-width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+main {
+    max-width: 600px;
+    text-align: left;
+    padding: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: salmon;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    color: salmon;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 170px;
+}
+
+button:hover {
+    background-color: red;
+}
+
+.form-group {
+    width: 70%;
+    height: 80px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+    
